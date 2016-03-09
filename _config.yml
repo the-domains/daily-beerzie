@@ -3,7 +3,7 @@ cta:
   version: null
   bucket: null
   domain: null
-layout_spectrum: 1
+layout_spectrum: 0.6765957
 favicon: null
 name: daily beerzie
 purpose: []
