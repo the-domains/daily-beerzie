@@ -1,6 +1,6 @@
 name: daily beerzie
 favicon: null
-layout_spectrum: 0.14823
+layout_spectrum: 0
 typography_spectrum: 1
 title: daily rick
 cta:
@@ -23,7 +23,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0
-  lightness: 0.3379289647564292
+  lightness: 0.0625
   saturation: 0.8468887391500175
   rhythmicContrast: 0.09685832378454506
 purpose: []
