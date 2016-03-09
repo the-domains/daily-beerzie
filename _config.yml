@@ -2,6 +2,7 @@ name: daily beerzie
 favicon: null
 layout_spectrum: 0.8535762357059866
 typography_spectrum: 0.161771054379642
+title: daily beerzie
 cta:
   domain: null
   bucket: null
