@@ -1,19 +1,8 @@
-color:
-  brandStrength: 0
-  saturation: 0.8468887
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  lightness: 0.2510638
-  rhythmicContrast: 0.6574468
+name: daily rick
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 1
 title: daily rick
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 collections:
   - index:
       navigable: true
@@ -27,15 +16,26 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  version: null
-  bucket: null
   domain: null
-favicon: null
-layout_spectrum: 0
-purpose: []
-name: daily rick
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 1
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0
+  lightness: 0.2510638
+  saturation: 0.8468887
+  rhythmicContrast: 0.6574468
+purpose: []
